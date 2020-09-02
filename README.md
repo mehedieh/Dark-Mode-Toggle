@@ -1,2 +1,3 @@
-# Dark-Mode-Toggle
-website dark mode experimental page
+# Dark Mode Toggle
+
+Website dark mode experimental page
