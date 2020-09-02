@@ -8,15 +8,15 @@
 
 /*Default Theme*/
 .default{
-  --text-color: #000000;
-  --background: #ffffff;
+  --text-color: #131212;
+  --background: #e7e6e6;
   --neutral: rgba(229,229,229,0.3);
 }
 
 /*Dark Theme*/
 .dark{
   --text-color: #ffffff;
-  --background: #141945;
+  --background: #070707;
   --neutral: rgba(229,229,229,0.3);
 }
 
